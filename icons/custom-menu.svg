@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E95420;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#77216F;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Fundo Circular com gradiente suave -->
+  <circle cx="12" cy="12" r="10" fill="url(#grad)" />
+  <!-- Símbolo estilizado de menu / aplicativos -->
+  <path d="M7 8h10M7 12h10M7 16h6" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" />
+</svg>
