@@ -1,0 +1,15 @@
+{
+  "uuid": "custom-menu-icon@extension-test.local",
+  "name": "Custom Show Apps Icon",
+  "description": "Substitui o ícone padrão de aplicativos (9 pontos) da dock do Ubuntu e do Dash por um ícone personalizado com tela de configurações.",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "settings-schema": "org.gnome.shell.extensions.custom-menu-icon",
+  "version": 1
+}

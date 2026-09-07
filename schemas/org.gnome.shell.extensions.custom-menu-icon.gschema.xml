@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.custom-menu-icon" path="/org/gnome/shell/extensions/custom-menu-icon/">
+    <key name="icon-path" type="s">
+      <default>""</default>
+      <summary>Caminho da imagem do ícone</summary>
+      <description>Caminho absoluto do arquivo de imagem (SVG, PNG, etc.) a ser exibido no botão de aplicativos.</description>
+    </key>
+  </schema>
+</schemalist>
